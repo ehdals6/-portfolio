@@ -22,7 +22,7 @@ Django,
 - XNU 커널 안전성 검증 연구
 
 - Rivision History 기반 SW 안전성 검증기술 연구 <br/>
-    Binary Analysis Platform 기반의 취약점유형 탐지 도구
+    Binary Analysis Platform 기반의 취약점유형 탐지 도구<br/>
     https://github.com/ehdals6/CWE_DETECT
 
 
