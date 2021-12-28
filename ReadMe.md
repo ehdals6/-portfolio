@@ -10,23 +10,24 @@
 - 2018: 차세대보안리더 BoB 7기
 
 ## 프로젝트 이력
-- 암호화 알고리즘 구현 
-C언어와 Python을 이용한 AES, RSA구현
 
-
-- 다크나이트
-DarkWeb에서 불법사이트를 탐지하고 악의적인 사용자를 추적하기 위한 다크웹크롤러
-Django, 
-
-
-- XNU 커널 안전성 검증 연구
-
-- Rivision History 기반 SW 안전성 검증기술 연구 <br/>
-      설명:Binary Analysis Platform 기반의 취약점유형 탐지 도구<br/>
-      사용 언어: Ocaml, Lisp<br/>
+- CWE 취약점 탐지 프로젝트 <br/>
+      설명: Binary Analysis Platform 기반의 취약점유형 탐지 도구<br/>
+      사용 언어: Ocaml, Lisp <br/>
+      키워드: CWE, BAP, 정적 분석, 바이너리 분석 <br/>
       https://github.com/ehdals6/CWE_DETECT
 
+- DarkWeb 악성사용자 추적 프로젝트 <br/>
+      설명: DarkWeb에서 불법사이트를 탐지하고 악의적인 사용자를 추적하기 위한 DarkWeb 크롤러 <br/>
+      사용 언어: Python <br/>
+      키워드: Darkweb, Onion, Tor, 웹크롤러 <br/>
+      https://github.com/Dark-Knight-BoB
 
+- 암호화 알고리즘 구현 <br/>
+     설명: 상용중인 암호화알고리즘 구현 <br/>
+     사용 언어: C언어, Python <br/>
+     키워드: AES, RSA
+     
 ## 특허
 (출원완료 심사 대기중)
 - 디지털포렌식 데이터베이스 구축 시스템 및 그 방법 
