@@ -3,6 +3,10 @@
 - 이름: 유동민
 - Email: ehdals614@naver.com
 - 관심분야: 디지털포렌식, 취약점분석
+- 내 장점: 
+        1) 긍정적이고, 잘 웃는 편입니다. 
+        2) 문제를 해결하기 위해 열심히 노력합니다.
+        3) 말 잘듣습니다.
 
 ## 활동
 - 2015~2019: 정보보안동아리 하이큐브
@@ -12,7 +16,8 @@
 ## 프로젝트 이력
 
 - **CWE 취약점 탐지 프로젝트** <br/>
-        설명: Binary Analysis Platform 기반의 취약점유형 탐지 도구<br/>
+        설명: Binary Analysis Platform 기반의 취약점유형 탐지 도구 <br/>
+        가장 어필하고 싶은 프로젝트입니다. 관련 논문은 아래에 링크 있습니다. <br/>
         사용 언어: Ocaml, Lisp <br/>
         키워드: CWE, BAP, 정적 분석, 바이너리 분석 <br/>
         https://github.com/ehdals6/CWE_DETECT
