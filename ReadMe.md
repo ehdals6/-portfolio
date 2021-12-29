@@ -30,7 +30,7 @@
 
 - **암호화 알고리즘 구현** <br/>
        설명: 상용중인 암호화알고리즘 구현 <br/>
-       사용 언어: C언어, Python <br/>
+       사용 언어: C언어 <br/>
        키워드: AES, RSA <br/>
        https://github.com/ehdals6/Cryptography
      
